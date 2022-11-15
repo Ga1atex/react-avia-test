@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-color: #e5e5e5;
+}
+
+.container {
+  width: 100%;
+  max-width: 962px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0 auto;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  padding: 0;
+  border: 0;
+}

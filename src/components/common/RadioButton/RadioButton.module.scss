@@ -1,0 +1,25 @@
+.label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 107px;
+  height: 34px;
+  border: 1px solid #b7bac1;
+  background-color: #fff;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.17;
+
+  &:has(input:checked) {
+    width: 130px;
+    height: 40px;
+    background-color: #dde3ee;
+  }
+}
+
+.depTime {
+  font-size: 18px;
+  line-height: 1.5;
+  padding-right: 5px;
+}

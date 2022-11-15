@@ -1,0 +1,25 @@
+.avia-form {
+  display: flex;
+  flex-direction: column;
+  padding: 68px 0;
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 29px;
+    background-color: #5c87db;
+    border-radius: 15px 15px 0px 0px;
+    min-height: 100px;
+  }
+
+  &__footer {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 23px 29px;
+    background-color: #fff;
+    box-shadow: 0px 0px 14px rgba(112, 121, 153, 0.3);
+    border-radius: 0px 0px 15px 15px;
+  }
+}
