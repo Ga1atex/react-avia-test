@@ -4,7 +4,7 @@ import Button from '../../components/common/Button/Button';
 import Input from '../../components/common/Input/Input';
 import { RouteNames } from '../../router';
 import { aviaActionCreators } from '../../store/reducers/aviaReducer/aviaReducer';
-import { useAppDispatch, useAppSelector } from '../../utils/hooks/reduxHooks';
+import { useAppDispatch } from '../../utils/hooks/reduxHooks';
 import styles from './Avia.module.scss';
 
 const Avia: React.FC = () => {

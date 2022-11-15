@@ -1,13 +1,9 @@
-import styles from './AviaInfo.module.scss';
-import logo from '../../assets/images/logo.svg';
-import baggageIcon from '../../assets/images/baggage.svg';
-import RadioButton from '../../components/common/RadioButton/RadioButton';
-import { useEffect, useState } from 'react';
-import { forEachChild } from 'typescript';
-import { useAppSelector } from '../../utils/hooks/reduxHooks';
-import { RouteNames } from '../../router';
+import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Ticket from '../../components/Ticket/Ticket';
+import { RouteNames } from '../../router';
+import { useAppSelector } from '../../utils/hooks/reduxHooks';
+import styles from './AviaInfo.module.scss';
 
 const ticket = {
   departureAirport: 'SVO',
