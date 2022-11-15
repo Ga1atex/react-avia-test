@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.283a529a.css",
-    "main.js": "/static/js/main.c47dfc23.js",
-    "static/css/247.0cbee354.chunk.css": "/static/css/247.0cbee354.chunk.css",
-    "static/js/247.36d54bbb.chunk.js": "/static/js/247.36d54bbb.chunk.js",
-    "static/css/198.86ac53a5.chunk.css": "/static/css/198.86ac53a5.chunk.css",
-    "static/js/198.812de4f3.chunk.js": "/static/js/198.812de4f3.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.7a069b2a11d18c2c0c4b942041a52625.svg",
-    "static/media/baggage.svg": "/static/media/baggage.a3d7601d4ba9ff9a5c1a3d87c927603f.svg",
-    "static/media/calendar.svg": "/static/media/calendar.0298b68afd02ef1fb1a8.svg",
-    "static/media/calendar-blue.svg": "/static/media/calendar-blue.3cec98a47cece2aab896.svg",
-    "index.html": "/index.html",
-    "main.283a529a.css.map": "/static/css/main.283a529a.css.map",
-    "main.c47dfc23.js.map": "/static/js/main.c47dfc23.js.map",
-    "247.0cbee354.chunk.css.map": "/static/css/247.0cbee354.chunk.css.map",
-    "247.36d54bbb.chunk.js.map": "/static/js/247.36d54bbb.chunk.js.map",
-    "198.86ac53a5.chunk.css.map": "/static/css/198.86ac53a5.chunk.css.map",
-    "198.812de4f3.chunk.js.map": "/static/js/198.812de4f3.chunk.js.map"
+    "main.css": "/react-avia-test/static/css/main.283a529a.css",
+    "main.js": "/react-avia-test/static/js/main.7808d4d4.js",
+    "static/css/247.ae22bd55.chunk.css": "/react-avia-test/static/css/247.ae22bd55.chunk.css",
+    "static/js/247.36d54bbb.chunk.js": "/react-avia-test/static/js/247.36d54bbb.chunk.js",
+    "static/css/198.86ac53a5.chunk.css": "/react-avia-test/static/css/198.86ac53a5.chunk.css",
+    "static/js/198.812de4f3.chunk.js": "/react-avia-test/static/js/198.812de4f3.chunk.js",
+    "static/media/logo.svg": "/react-avia-test/static/media/logo.7a069b2a11d18c2c0c4b942041a52625.svg",
+    "static/media/baggage.svg": "/react-avia-test/static/media/baggage.a3d7601d4ba9ff9a5c1a3d87c927603f.svg",
+    "static/media/calendar.svg": "/react-avia-test/static/media/calendar.0298b68afd02ef1fb1a8.svg",
+    "static/media/calendar-blue.svg": "/react-avia-test/static/media/calendar-blue.3cec98a47cece2aab896.svg",
+    "index.html": "/react-avia-test/index.html",
+    "main.283a529a.css.map": "/react-avia-test/static/css/main.283a529a.css.map",
+    "main.7808d4d4.js.map": "/react-avia-test/static/js/main.7808d4d4.js.map",
+    "247.ae22bd55.chunk.css.map": "/react-avia-test/static/css/247.ae22bd55.chunk.css.map",
+    "247.36d54bbb.chunk.js.map": "/react-avia-test/static/js/247.36d54bbb.chunk.js.map",
+    "198.86ac53a5.chunk.css.map": "/react-avia-test/static/css/198.86ac53a5.chunk.css.map",
+    "198.812de4f3.chunk.js.map": "/react-avia-test/static/js/198.812de4f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.283a529a.css",
-    "static/js/main.c47dfc23.js"
+    "static/js/main.7808d4d4.js"
   ]
 }
